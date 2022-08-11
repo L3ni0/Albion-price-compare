@@ -1,0 +1,16 @@
+jest to wczesna werscja, przez fakt i¿ w do sprawdzenia ma ponad 7000 przemiotów + ich jakoœæ. to trochê zajmie, dlatego w trakie widzicie kolejne elementy
+
+
+ten program zosta³ stworzony po to aby porównaæ ceny z ró¿nych marketów i pokazaæ co jest najbardziej op³acalne, korzystam z publicznego api które nie jest idealne, dlatego zalecam upewniæ siê co do cen kiedy coœ znajdziecie
+
+pierwsza sprawa to pobarnie pythona z strony: https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe
+
+na pocz¹tku uruchom main.py przynajmniej a¿ pojawi siê napis gotowe, dlatego ¿e najpierw musi pobraæ dodatkowe biblioteki aby wszystko dzia³a³o
+
+program dzia³a w taki sposób, ¿e uruchamiacie main.py który po przeliczeniu wszytkich elementów tworzy plik index.html zaweraj¹cy tabelkê z wszytkimi przemiotami
+
+
+jeœli chcecie sprawdzic konkretne przemioty to wystarczy w pliku names.txt zostawiæ te które was interesuj¹. Gdybyœcie  coœ popsuli w tym pliku to siê nie martw. wystarczy ¿e uruchomisz take_names.py a on pobierze wszytkie nazwy
+
+
+
