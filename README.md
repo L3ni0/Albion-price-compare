@@ -1,6 +1,6 @@
 # Albion-price-compare
 
-###jest to wczesna werscja, przez fakt iż w do sprawdzenia ma ponad 7000 przemiotów + ich jakość. to trochę zajmie, dlatego w trakie widzicie kolejne elementy
+### jest to wczesna werscja, przez fakt iż w do sprawdzenia ma ponad 7000 przemiotów + ich jakość. to trochę zajmie, dlatego w trakie widzicie kolejne elementy
 
 
 ten program został stworzony po to aby porównać ceny z różnych marketów i pokazać co jest najbardziej opłacalne, 
