@@ -17,7 +17,9 @@ with open('names.txt', 'r',encoding='utf-8') as names: #open files with all item
 
         best = profits_of_item(price_data,pl_name)
         #if we haven't much information return = None
-        if best != [None]:
+        
+
+        if best and best != [None] and best is not None:
             data.extend(best)
             print(best)
 
