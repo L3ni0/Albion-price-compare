@@ -55,7 +55,7 @@ def profits_of_item(price_data,pl_name=''):
     profits = []
     for to_compare in list_of_item:
         if len(to_compare) > 1:
-            if (resoult := best_proportion(to_compare,pl_name)) != None: profits.append(resoult) 
+            if (resoult := best_proportion(to_compare,pl_name)) is not None: profits.append(resoult) 
 
     filtered = [item for item in list_of_item if item is not None]
 
